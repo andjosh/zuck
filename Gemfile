@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem 'rvm'
 gem 'bundler'
-gem 'koala'
+gem 'koala', '~> 2.0'
 gem 'activesupport'
 
 group :development do
